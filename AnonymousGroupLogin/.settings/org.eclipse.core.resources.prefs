@@ -1,0 +1,22 @@
+#Wed Mar 21 15:31:27 EET 2012
+eclipse.preferences.version=1
+encoding//RegisterUser/RegisteringComponent/examples/CustomThridPartyAuth.py=utf-8
+encoding//RegisterUser/RegisteringComponent/examples/disco_browser.py=utf-8
+encoding//RegisterUser/RegisteringComponent/examples/muc.py=utf-8
+encoding//RegisterUser/RegisteringComponent/examples/register_account.py=utf-8
+encoding//RegisterUser/RegisteringComponent/examples/register_account2.py=utf-8
+encoding//RegisterUser/RegisteringComponent/examples/roster_browser.py=utf-8
+encoding//RegisterUser/RegisteringComponent/examples/sleekxmpp/clientxmpp.py=utf-8
+encoding//RegisterUser/RegisteringComponent/examples/thirdpary_auth.py=utf-8
+encoding//RegisterUser/RegisteringComponent/register_account.py=utf-8
+encoding//RegisterUser/RegisteringComponent/sleekxmpp/basexmpp.py=utf-8
+encoding//RegisterUser/RegisteringComponent/sleekxmpp/clientxmppOFFICIAL.py=utf-8
+encoding//RegisterUser/RegisteringComponent/sleekxmpp/plugins/base.py=utf-8
+encoding//RegisterUser/RegisteringComponent/sleekxmpp/xmlstream/jid.py=utf-8
+encoding//RegisterUser/RegisteringComponent/workingSamples/AnonymousLogin.py=utf-8
+encoding//RegisterUser/RegisteringComponent/workingSamples/register_account2.py=utf-8
+encoding//RegisteringUsers/anonymous/AnonymousLogin.py=utf-8
+encoding//RegisteringUsers/anonymous/thirdpary_auth.py=utf-8
+encoding//RegisteringUsers/inServer/register_account2.py=utf-8
+encoding//RegisteringUsers/sleekxmpp/clientxmpp.py=utf-8
+encoding//src/sleekxmpp/clientxmpp.py=utf-8
